@@ -1,0 +1,12 @@
+syntax = "proto3";
+
+package cartApi;
+
+option go_package = "./;go_micro_service_cartApi";
+
+
+service CartApi {
+
+}
+
+
